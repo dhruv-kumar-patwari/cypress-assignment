@@ -1,0 +1,21 @@
+{
+  "menu": ".subtabs__tab-link > span",
+  "vendors": ":nth-child(3) > .input-suggestions__suggestion-content > .input-suggestions__suggestion-content-text > .submenu-link__dropdown-item",
+  "material": ".page-layout__tabs > .subtabs > :nth-child(2) > .subtabs__tab-link",
+  "new_button": ".samples > a > .btn",
+  "add_button": ".validated-input__input > .btn",
+  "compound": ":nth-child(1) > :nth-child(1) > .amino-table__cell-content > .tx-checkbox > .tx-checkbox__content > .tx-checkbox__icon-container > .fa",
+  "continue": "span > .btn",
+  "resource": ":nth-child(1) > :nth-child(1) > .amino-table__cell-content > .tx-checkbox > .tx-checkbox__content > .tx-checkbox__icon-container > .fa",
+  "select": "span > .btn",
+  "vendor": ".validated-input__input > .select > .select-input__container > .select-input__wrapper",
+  "vendor_type": ":nth-child(1) > .input-suggestions__suggestion-content > .input-suggestions__suggestion-content-text",
+  "add_cost_item_input": ".add-new-inplace > .btn > .btn__content",
+  "amount_input": ":nth-child(1) > .validated-input > .validated-input__input > .labeled-input > .text-input",
+  "select_unit": ".validated-input__input > .labeled-input > .select > .select-input__container > .select-input__wrapper",
+  "unit_type_suggestion": ":nth-child(1) > .input-suggestions__suggestion-content > .input-suggestions__suggestion-content-text",
+  "cost_input": ":nth-child(3) > .validated-input > .validated-input__input > .labeled-input > .text-input",
+  "sku_input": ":nth-child(4) > .validated-input > .validated-input__input > .labeled-input > .text-input",
+  "check_icon": ".icon > .fa-check",
+  "create_button": ".button-group > .btn-tall"
+}

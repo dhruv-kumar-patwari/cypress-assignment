@@ -1,0 +1,11 @@
+{
+  "compounds_tab": ":nth-child(4) > .subtabs__tab-link",
+  "register_compound_btn": "[style=\"position: relative;\"] > .btn",
+  "draw_structure_btn": ":nth-child(1) > .btn > .btn__content > .compound-dropdown__button",
+  "public_compound_toggle": ".toggle__label--on",
+  "smile_string_input": ".validated-input__input > .text-input",
+  "next_btn": ".next-container > span > .btn",
+  "compound_nickname_input": ":nth-child(1) > .labeled-input > .text-input",
+  "create_compound_button": ".next-container > span > .btn",
+  "compound_nickname_view": ":nth-child(1) > :nth-child(3) > .amino-table__cell-content > .tooltip-wrapper > p"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cypressbase",
+  "version": "1.0.0",
+  "description": "cypress Base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}

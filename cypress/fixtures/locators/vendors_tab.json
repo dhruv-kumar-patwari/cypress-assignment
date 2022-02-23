@@ -1,0 +1,9 @@
+{
+  "menu": ".subtabs__tab-link > .fas",
+  "vendors_tab": ":nth-child(3) > .input-suggestions__suggestion-content > .input-suggestions__suggestion-content-text > .submenu-link__dropdown-item",
+  "vendors_subtab": ".page-layout__tabs > .subtabs > :nth-child(4) > .subtabs__tab-link",
+  "plus_icon": ".fa-plus",
+  "vendor_name_input": ".text-input",
+  "create_vendor": ".btn__content > span",
+  "vendors_list_item": ":nth-child(1) > :nth-child(1) > .amino-table__cell-content--scrollable > div > a"
+}

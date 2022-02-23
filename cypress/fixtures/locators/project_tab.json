@@ -1,0 +1,12 @@
+{
+  "projects_tab" : "user-nav-bar__content-left > .subtabs > :nth-child(2) > .subtabs__tab-link",
+  "create_project_icon": "project-square--create-new > .project-square__contents",
+  "project_name_input": ":nth-child(1) > .validated-input > .validated-input__input > .text-input",
+  "create_project": ".create-org > .btn__content",
+  "breadcrumb_project_name": ":nth-child(2) > .breadcrumbs__item-link > .breadcrumbs__item-link--invert",
+  "breadcrumb_project_tab": ":nth-child(1) > .breadcrumbs__item-link > .breadcrumbs__item-link--invert",
+  "project_name_display": ":nth-child(2) > .project-square__contents > .project-square__header-content > .project-square__headers > .project-square__header > .highlighted > span",
+  "favorite_filter": ".projects-search-filters__favorite-filter",
+  "project_star": ":nth-child(2) > .project-square__contents > .project-square__header-content > div.project-square__favorite-icon > .project-square__favorite-icon",
+  "filtered_project_title": ".highlighted > span"
+}

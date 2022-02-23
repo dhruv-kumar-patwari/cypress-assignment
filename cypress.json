@@ -1,0 +1,8 @@
+{
+    "env": {
+        "EMAIL": "ben.miles@strateos.com",
+        "PASSWORD": "Testing123!",
+        "HOST": "http://localhost:5555/users/sign_in",
+        "HOME_PAGE": "http://localhost:5555/api/v1/access_control/user_acl"
+    }
+}

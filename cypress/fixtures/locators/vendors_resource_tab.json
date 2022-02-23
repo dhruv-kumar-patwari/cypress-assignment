@@ -1,0 +1,21 @@
+{
+  "menu": ".subtabs__tab-link > span",
+  "vendors_tab": ":nth-child(3) > .input-suggestions__suggestion-content > .input-suggestions__suggestion-content-text > .submenu-link__dropdown-item",
+  "vendors_resource_subtab": ".page-layout__tabs > .subtabs > :nth-child(3) > .subtabs__tab-link",
+  "add_resource_btn": ".tx-stack__block--sm > .btn > .btn__content",
+  "resource_name_input": ".text-input",
+  "resource_kind_dropdown": ":nth-child(2) > .labeled-input > .select > .select-input__container > .select-input__wrapper",
+  "chemical_structure_option": ":nth-child(2) > .input-suggestions__suggestion-content > .input-suggestions__suggestion-content-text",
+  "link_compound_btn": ".labeled-input > .btn > .btn__content",
+  "select_link_compound": ":nth-child(1) > :nth-child(1) > .amino-table__cell-content > .tx-checkbox > .tx-checkbox__content > .tx-checkbox__icon-container > .fa",
+  "add_link_compound": ".create-org > .btn__content",
+  "kind_filter_dropdown": ":nth-child(1) > :nth-child(1) > .search-filter-bar-title-wrapper > .search-filter-wrapper__title > .fa",
+  "kind_filter_chemical_structure_option": ":nth-child(1) > :nth-child(1) > .search-filter-wrapper__vertical-options > .search-filter > .radio-group > :nth-child(2) > .tx-radio__content > .tx-radio__toggle",
+  "kind_filter_protein_option": ":nth-child(1) > :nth-child(1) > .search-filter-wrapper__vertical-options > .search-filter > .radio-group > :nth-child(4) > .tx-radio__content > .tx-radio__text",
+  "first_child_kind": ":nth-child(1) > .resource-card__card > :nth-child(1) > .resource-card__container > .resource-card__kind > .kv-list > :nth-child(2) > .kv-list__value-text",
+  "storage_condition_dropdown": ":nth-child(2) > :nth-child(1) > .search-filter-bar-title-wrapper > .search-filter-wrapper__title > .fa",
+  "storage_condition_cold4_option": ":nth-child(2) > :nth-child(1) > .search-filter-wrapper__vertical-options > .search-filter > .radio-group > :nth-child(3) > .tx-radio__content > .tx-radio__toggle",
+  "third_child_storage_condition": ":nth-child(3) > .resource-card__card > :nth-child(1) > .resource-card__container > :nth-child(1) > .kv-list > :nth-child(4) > .kv-list__value-text",
+  "resource_card": ":nth-child(1) > .resource-card__card",
+  "resource_name": ":nth-child(1) > .resource-card__card > :nth-child(1) > .resource-card__card-name > .resource-card__resource-name"
+}
